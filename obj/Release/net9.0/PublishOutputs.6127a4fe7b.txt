@@ -1,0 +1,8 @@
+C:\Sonali\AZURE\Projects\learningapp\bin\Release\LearningApp.exe
+C:\Sonali\AZURE\Projects\learningapp\bin\Release\web.config
+C:\Sonali\AZURE\Projects\learningapp\bin\Release\appsettings.Development.json
+C:\Sonali\AZURE\Projects\learningapp\bin\Release\appsettings.json
+C:\Sonali\AZURE\Projects\learningapp\bin\Release\LearningApp.dll
+C:\Sonali\AZURE\Projects\learningapp\bin\Release\LearningApp.deps.json
+C:\Sonali\AZURE\Projects\learningapp\bin\Release\LearningApp.runtimeconfig.json
+C:\Sonali\AZURE\Projects\learningapp\bin\Release\LearningApp.pdb
